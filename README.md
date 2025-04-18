@@ -1,25 +1,39 @@
-███╗   ██╗███████╗████████╗██╗  ██╗██╗   ██╗    ██╗   ██╗
-████╗  ██║██╔════╝╚══██╔══╝██║  ██║╚██╗ ██╔╝    ╚██╗ ██╔╝
-██╔██╗ ██║█████╗     ██║   ███████║ ╚████╔╝      ╚████╔╝ 
-██║╚██╗██║██╔══╝     ██║   ██╔══██║  ╚██╔╝        ╚██╔╝  
-██║ ╚████║███████╗   ██║   ██║  ██║   ██║          ██║   
-╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝          ╚═╝   
+<p align="center">
+  <img src="A_digital_illustration_logo_features_a_cyberpunk_a.png" width="300"/>
+</p>
 
-NETHU-V1 - ULTIMATE WHATSAPP BOT
-POWRED BY NETHUM OFC | 🇱🇰 Sinhala + English Support
+<h1 align="center">NETHU-V1 - ULTIMATE WHATSAPP BOT</h1>
+<p align="center">
+  <b>POWRED BY NETHUM OFC</b><br>
+  <i>Legendary WhatsApp Bot in Sinhala & English</i>
+</p>
 
-✨ Features:
-- Auto Status Seen, Auto Reply, Auto Typing
-- Anti Delete, Restart, Voice Commands
-- Tool Plugins, Downloader Plugins, Anime Commands
-- Heroku + Talkdrove Deploy Support
+---
 
-🚀 Deploy Free on Heroku:
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nethum-ofc/NETHU-V1)
+### 🔥 Key Features
 
-⚙️ How to Use:
-1. Get session ID from any bot (Sithum, Asitha, etc.)
-2. Add `SESSION_ID` to `.env` file
-3. Click deploy button
+- ✅ Auto Typing / Auto Voice / Auto Reply
+- ✅ Status Seen / Status React
+- ✅ Anti Delete / Restart Command
+- ✅ Downloader Plugins (YT, FB, IG, TikTok)
+- ✅ Voice Commands | Movie Command
+- ✅ Tool Plugins (20+) | API Support
+- ✅ Stylish Sinhala-English Responses
+- ✅ Custom Plugins | Command System
 
-Made by: [NETHUM OFC](https://wa.me/94740021158)
+---
+
+### 🚀 Free Deploy Options
+
+**Deploy to Heroku**  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nethum-ofc/NETHU-V1)
+
+**Supports Also:**  
+`Railway` | `Render` | `Talkdrove`
+
+---
+
+### ⚙️ How to Use This Bot
+
+1. Get a Session ID from a trusted pair site (Ex: Sithum, Asitha, etc.)
+2. Add it to `.env` as:

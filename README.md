@@ -1,5 +1,5 @@
 <p align="center">
-  <img https://files.catbox.moe/5sjazp.jpg>
+  <https://files.catbox.moe/5sjazp.jpg>
 </p>
 
 <h1 align="center">NETHU-V1 - ULTIMATE WHATSAPP BOT</h1>

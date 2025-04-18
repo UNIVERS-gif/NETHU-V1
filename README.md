@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_digital_illustration_logo_features_a_cyberpunk_a.png" width="300"/>
+  <img https://files.catbox.moe/5sjazp.jpg>
 </p>
 
 <h1 align="center">NETHU-V1 - ULTIMATE WHATSAPP BOT</h1>
